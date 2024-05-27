@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class IPhone {
+package celular;
+
+public class IPhone {
 }
